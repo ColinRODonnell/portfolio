@@ -1,6 +1,7 @@
 body {
     background: lavender;
     font-family: Arial, "Courier New", sans-serif;
+    line-height:0.60em;
 }
 
 iframe.thinglink {
@@ -53,5 +54,5 @@ section.resume {
 
 section.inner {
     background:lavender;
-}
+
 
