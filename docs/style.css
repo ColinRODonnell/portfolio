@@ -4,6 +4,10 @@ body {
     line-height:0.60em;
 }
 
+footer {
+    background:yellow 
+}
+
 iframe.thinglink {
     width:960px; 
     height:720px;}
