@@ -43,6 +43,30 @@ img#PSB {
     width: 10%;
 }
 
+img#snip1:hover {
+    transition:0.3s ease;
+    transform:scale(1.5);
+}
+
+img#snip2:hover {
+    transition:0.3s ease;
+    transform:scale(1.5);
+}
+
+img#snip3:hover {
+    transition:0.3s ease;
+    transform:scale(1.5);
+}
+
+img#snip4:hover {
+    transition:0.3s ease;
+    transform:scale(1.5);
+}
+
+img#snip5:hover {
+    transition:0.3s ease;
+    transform:scale(1.5);
+}
 
 div.flex {
     
@@ -66,5 +90,6 @@ section.resume {
 
 section.inner {
     background:lavender;
+
 
 
