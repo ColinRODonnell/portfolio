@@ -68,6 +68,16 @@ img#snip5:hover {
     transform:scale(1.5);
 }
 
+img#Elderfield:hover {
+    transition:0.3s ease;
+    transform:scale(1.2);
+}
+
+img#windmill:hover {
+    transition:0.3s ease;
+    transform:scale(1.2);
+}
+
 div.flex {
     
    display:flex; 
