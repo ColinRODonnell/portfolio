@@ -1,14 +1,7 @@
-# Regex Steps for Converting Movie Data From a tab-separated text file to XML
+# Colin's REGEX Notepad 
 
-*Before beginning, think about how to do these assignments. It might be helpful to run a separate (free) Markdown editor to keep
-your step recording in a different software window than oXygen, where you'll be writing your Find and Replace operations.
-You want to be able to copy and paste your expressions into your markdown file to record them. 
-I'm going to use Macdown (a nice markdown editor for Mac). Windows has Typora or reMarkable, etc.*
+First, I looked for any &, <, or > that would make the XMl fail 
 
-
-First step is ALWAYS to search for characters that will disrupt XML encoding: 
-`&`, `<`, `>`. 
-XML is not allowed to contain raw ampersand characters `&`. 
 So I needed to find:
 
 **Find:**
@@ -22,11 +15,7 @@ and replace with the special escape characters for ampersands:
 ```
 &amp;
 ```
-I searched for `<` and `>` and did not find them. 
-
-
-Moving on, we can begin the "autotagging" find and replace process.
-I wanted to wrap elements around whole lines. 
+Next, I tried to actually add xml tags to the movie name, date, location and duration
 
 I used the following expression to find. 
 I made sure that *dot matches all* was NOT set so that
