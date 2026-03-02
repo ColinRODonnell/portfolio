@@ -1,0 +1,1906 @@
+<xml>
+   <section num='1'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='03.190'/>
+         <end hour='00' minute='00' second='07.330'/>
+      </timeframe>
+
+      <speech>Greetings digit 210.
+So at the end of class
+</speech>
+   </section>
+
+   <section num='2'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='07.330'/>
+         <end hour='00' minute='00' second='10.510'/>
+      </timeframe>
+
+      <speech>today on Friday January
+30th I left us on a
+</speech>
+   </section>
+
+   <section num='3'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='10.510'/>
+         <end hour='00' minute='00' second='13.250'/>
+      </timeframe>
+
+      <speech>bit of a cliffhanger
+with a bit of broken
+</speech>
+   </section>
+
+   <section num='4'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='13.250'/>
+         <end hour='00' minute='00' second='15.990'/>
+      </timeframe>
+
+      <speech>code. Let me remind
+you what we were trying
+</speech>
+   </section>
+
+   <section num='5'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='15.990'/>
+         <end hour='00' minute='00' second='19.090'/>
+      </timeframe>
+
+      <speech>to do. I have now fixed
+it so I'm going to
+</speech>
+   </section>
+
+   <section num='6'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='19.090'/>
+         <end hour='00' minute='00' second='22.830'/>
+      </timeframe>
+
+      <speech>show you the graph the
+way I wanted to plot
+</speech>
+   </section>
+
+   <section num='7'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='22.830'/>
+         <end hour='00' minute='00' second='27.330'/>
+      </timeframe>
+
+      <speech>it. Here it is and
+this is the number of
+</speech>
+   </section>
+
+   <section num='8'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='27.330'/>
+         <end hour='00' minute='00' second='31.880'/>
+      </timeframe>
+
+      <speech>speeches in each location
+of the Dan to Dan
+</speech>
+   </section>
+
+   <section num='9'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='31.880'/>
+         <end hour='00' minute='00' second='34.950'/>
+      </timeframe>
+
+      <speech>episode that we were
+looking at. And as you see,
+</speech>
+   </section>
+
+   <section num='10'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='34.950'/>
+         <end hour='00' minute='00' second='36.830'/>
+      </timeframe>
+
+      <speech>this is what I wanted
+to do. I wanted to
+</speech>
+   </section>
+
+   <section num='11'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='36.830'/>
+         <end hour='00' minute='00' second='39.510'/>
+      </timeframe>
+
+      <speech>put the location with
+the most speeches at
+</speech>
+   </section>
+
+   <section num='12'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='39.510'/>
+         <end hour='00' minute='00' second='42.410'/>
+      </timeframe>
+
+      <speech>the bottom of the graph,
+and then I could plot
+</speech>
+   </section>
+
+   <section num='13'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='42.410'/>
+         <end hour='00' minute='00' second='45.390'/>
+      </timeframe>
+
+      <speech>them in descending
+order. So each one of
+</speech>
+   </section>
+
+   <section num='14'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='45.390'/>
+         <end hour='00' minute='00' second='47.890'/>
+      </timeframe>
+
+      <speech>these little wedges
+gets smaller and smaller
+</speech>
+   </section>
+
+   <section num='15'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='47.890'/>
+         <end hour='00' minute='00' second='50.530'/>
+      </timeframe>
+
+      <speech>based on the number
+of speeches. We go 49
+</speech>
+   </section>
+
+   <section num='16'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='50.530'/>
+         <end hour='00' minute='00' second='55.590'/>
+      </timeframe>
+
+      <speech>to 33 to 24. so you see
+how that works so how
+</speech>
+   </section>
+
+   <section num='17'>
+
+      <timeframe>
+         <start hour='00' minute='00' second='55.590'/>
+         <end hour='00' minute='01' second='01.570'/>
+      </timeframe>
+
+      <speech>did I do that and
+let me stop the share
+</speech>
+   </section>
+
+   <section num='18'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='01.570'/>
+         <end hour='00' minute='01' second='07.850'/>
+      </timeframe>
+
+      <speech>restart it switch to my
+other desktop and here
+</speech>
+   </section>
+
+   <section num='19'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='07.850'/>
+         <end hour='00' minute='01' second='13.110'/>
+      </timeframe>
+
+      <speech>I think you can see
+my code so previously
+</speech>
+   </section>
+
+   <section num='20'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='13.110'/>
+         <end hour='00' minute='01' second='17.070'/>
+      </timeframe>
+
+      <speech>we had been sort we
+had been outputting a
+</speech>
+   </section>
+
+   <section num='21'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='17.070'/>
+         <end hour='00' minute='01' second='21.950'/>
+      </timeframe>
+
+      <speech>chunk of like a little
+bar to stack based on
+</speech>
+   </section>
+
+   <section num='22'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='21.950'/>
+         <end hour='00' minute='01' second='25.610'/>
+      </timeframe>
+
+      <speech>these distinct values
+of the where attributes
+</speech>
+   </section>
+
+   <section num='23'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='25.610'/>
+         <end hour='00' minute='01' second='29.650'/>
+      </timeframe>
+
+      <speech>on stage and previously
+I had this little
+</speech>
+   </section>
+
+   <section num='24'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='29.650'/>
+         <end hour='00' minute='01' second='33.170'/>
+      </timeframe>
+
+      <speech>expath sort what that
+did is sort these
+</speech>
+   </section>
+
+   <section num='25'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='33.170'/>
+         <end hour='00' minute='01' second='36.590'/>
+      </timeframe>
+
+      <speech>distinct values the default
+way and expath which
+</speech>
+   </section>
+
+   <section num='26'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='36.590'/>
+         <end hour='00' minute='01' second='39.270'/>
+      </timeframe>
+
+      <speech>is alphabetical order
+and we decided that
+</speech>
+   </section>
+
+   <section num='27'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='39.270'/>
+         <end hour='00' minute='01' second='41.090'/>
+      </timeframe>
+
+      <speech>didn't really look so
+good or make that much
+</speech>
+   </section>
+
+   <section num='28'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='41.090'/>
+         <end hour='00' minute='01' second='43.310'/>
+      </timeframe>
+
+      <speech>sense so we're gonna
+do it a different way
+</speech>
+   </section>
+
+   <section num='29'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='43.310'/>
+         <end hour='00' minute='01' second='48.910'/>
+      </timeframe>
+
+      <speech>to fix things I
+removed this sort and I
+</speech>
+   </section>
+
+   <section num='30'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='48.910'/>
+         <end hour='00' minute='01' second='54.730'/>
+      </timeframe>
+
+      <speech>created a new variable
+down here that I'm going
+</speech>
+   </section>
+
+   <section num='31'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='54.730'/>
+         <end hour='00' minute='01' second='57.470'/>
+      </timeframe>
+
+      <speech>to take out a little
+extra white space here
+</speech>
+   </section>
+
+   <section num='32'>
+
+      <timeframe>
+         <start hour='00' minute='01' second='57.920'/>
+         <end hour='00' minute='02' second='03.210'/>
+      </timeframe>
+
+      <speech>I'm calling this one
+sorted stage locations
+</speech>
+   </section>
+
+   <section num='33'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='03.350'/>
+         <end hour='00' minute='02' second='06.250'/>
+      </timeframe>
+
+      <speech>you saw me do this
+earlier in class where
+</speech>
+   </section>
+
+   <section num='34'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='06.250'/>
+         <end hour='00' minute='02' second='10.030'/>
+      </timeframe>
+
+      <speech>I unpack a variable and
+I go through things,
+</speech>
+   </section>
+
+   <section num='35'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='10.030'/>
+         <end hour='00' minute='02' second='12.470'/>
+      </timeframe>
+
+      <speech>this is going to make
+a series of strings.
+</speech>
+   </section>
+
+   <section num='36'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='12.590'/>
+         <end hour='00' minute='02' second='15.750'/>
+      </timeframe>
+
+      <speech>This time, I start
+with the distinct stage
+</speech>
+   </section>
+
+   <section num='37'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='15.750'/>
+         <end hour='00' minute='02' second='18.750'/>
+      </timeframe>
+
+      <speech>locations that we
+calculated up here,
+</speech>
+   </section>
+
+   <section num='38'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='18.980'/>
+         <end hour='00' minute='02' second='22.670'/>
+      </timeframe>
+
+      <speech>and I'm going to go
+in, and I'm actually
+</speech>
+   </section>
+
+   <section num='39'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='22.670'/>
+         <end hour='00' minute='02' second='27.370'/>
+      </timeframe>
+
+      <speech>using the XSL sort in
+here. This made a nice
+</speech>
+   </section>
+
+   <section num='40'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='27.370'/>
+         <end hour='00' minute='02' second='29.650'/>
+      </timeframe>
+
+      <speech>safe space for me
+to work this out and
+</speech>
+   </section>
+
+   <section num='41'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='29.650'/>
+         <end hour='00' minute='02' second='32.310'/>
+      </timeframe>
+
+      <speech>check my work to make
+sure it was it was
+</speech>
+   </section>
+
+   <section num='42'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='32.310'/>
+         <end hour='00' minute='02' second='37.670'/>
+      </timeframe>
+
+      <speech>working so I said XSL
+sort but we're gonna
+</speech>
+   </section>
+
+   <section num='43'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='37.670'/>
+         <end hour='00' minute='02' second='42.490'/>
+      </timeframe>
+
+      <speech>do this based on the
+XML tree we're gonna
+</speech>
+   </section>
+
+   <section num='44'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='42.490'/>
+         <end hour='00' minute='02' second='46.890'/>
+      </timeframe>
+
+      <speech>go down find the stages
+where the current
+</speech>
+   </section>
+
+   <section num='45'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='46.890'/>
+         <end hour='00' minute='02' second='51.770'/>
+      </timeframe>
+
+      <speech>one where the where
+the where attribute
+</speech>
+   </section>
+
+   <section num='46'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='51.770'/>
+         <end hour='00' minute='02' second='54.470'/>
+      </timeframe>
+
+      <speech>equals the current
+value we're gonna go
+</speech>
+   </section>
+
+   <section num='47'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='54.470'/>
+         <end hour='00' minute='02' second='56.630'/>
+      </timeframe>
+
+      <speech>reach into the speeches
+and count them.
+</speech>
+   </section>
+
+   <section num='48'>
+
+      <timeframe>
+         <start hour='00' minute='02' second='56.910'/>
+         <end hour='00' minute='03' second='02.250'/>
+      </timeframe>
+
+      <speech>And what xsl sort
+does is it changes the
+</speech>
+   </section>
+
+   <section num='49'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='02.250'/>
+         <end hour='00' minute='03' second='06.730'/>
+      </timeframe>
+
+      <speech>order of the output
+based on the number
+</speech>
+   </section>
+
+   <section num='50'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='06.730'/>
+         <end hour='00' minute='03' second='10.650'/>
+      </timeframe>
+
+      <speech>of counts. So this
+value here is going to
+</speech>
+   </section>
+
+   <section num='51'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='10.650'/>
+         <end hour='00' minute='03' second='14.250'/>
+      </timeframe>
+
+      <speech>determine the order
+of the output of xsl
+</speech>
+   </section>
+
+   <section num='52'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='14.250'/>
+         <end hour='00' minute='03' second='17.090'/>
+      </timeframe>
+
+      <speech>for each. I have to
+output something or
+</speech>
+   </section>
+
+   <section num='53'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='17.090'/>
+         <end hour='00' minute='03' second='20.150'/>
+      </timeframe>
+
+      <speech>this doesn't work. So
+I say output the value
+</speech>
+   </section>
+
+   <section num='54'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='20.150'/>
+         <end hour='00' minute='03' second='24.130'/>
+      </timeframe>
+
+      <speech>of the current
+location at this point.
+</speech>
+   </section>
+
+   <section num='55'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='24.190'/>
+         <end hour='00' minute='03' second='26.950'/>
+      </timeframe>
+
+      <speech>XSL sort is a little
+bit of magic, just
+</speech>
+   </section>
+
+   <section num='56'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='26.950'/>
+         <end hour='00' minute='03' second='29.990'/>
+      </timeframe>
+
+      <speech>like XPath sort, but
+the way it's going
+</speech>
+   </section>
+
+   <section num='57'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='29.990'/>
+         <end hour='00' minute='03' second='34.210'/>
+      </timeframe>
+
+      <speech>to work is like every
+time the XSL foreach
+</speech>
+   </section>
+
+   <section num='58'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='34.210'/>
+         <end hour='00' minute='03' second='36.230'/>
+      </timeframe>
+
+      <speech>runs, it's going
+to grab a count
+</speech>
+   </section>
+
+   <section num='59'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='36.230'/>
+         <end hour='00' minute='03' second='39.770'/>
+      </timeframe>
+
+      <speech>value, and the output
+of this foreach is
+</speech>
+   </section>
+
+   <section num='60'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='39.770'/>
+         <end hour='00' minute='03' second='44.170'/>
+      </timeframe>
+
+      <speech>going to be determined
+by the sort order,
+</speech>
+   </section>
+
+   <section num='61'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='44.170'/>
+         <end hour='00' minute='03' second='46.850'/>
+      </timeframe>
+
+      <speech>which we've now made
+based on a number.
+</speech>
+   </section>
+
+   <section num='62'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='47.310'/>
+         <end hour='00' minute='03' second='51.190'/>
+      </timeframe>
+
+      <speech>okay I checked this in
+an XSL comment because
+</speech>
+   </section>
+
+   <section num='63'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='51.190'/>
+         <end hour='00' minute='03' second='53.610'/>
+      </timeframe>
+
+      <speech>I really wanted to
+make sure that I had
+</speech>
+   </section>
+
+   <section num='64'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='53.610'/>
+         <end hour='00' minute='03' second='56.550'/>
+      </timeframe>
+
+      <speech>a series of strings
+that were based on my
+</speech>
+   </section>
+
+   <section num='65'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='56.550'/>
+         <end hour='00' minute='03' second='59.630'/>
+      </timeframe>
+
+      <speech>sort order and I knew
+that spaceship was
+</speech>
+   </section>
+
+   <section num='66'>
+
+      <timeframe>
+         <start hour='00' minute='03' second='59.630'/>
+         <end hour='00' minute='04' second='02.810'/>
+      </timeframe>
+
+      <speech>going to be the largest
+one so when I run this
+</speech>
+   </section>
+
+   <section num='67'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='02.810'/>
+         <end hour='00' minute='04' second='04.770'/>
+      </timeframe>
+
+      <speech>I'm going to like
+make sure I save this
+</speech>
+   </section>
+
+   <section num='68'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='04.770'/>
+         <end hour='00' minute='04' second='08.150'/>
+      </timeframe>
+
+      <speech>and run it I'm going
+to go take a look at
+</speech>
+   </section>
+
+   <section num='69'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='08.150'/>
+         <end hour='00' minute='04' second='12.150'/>
+      </timeframe>
+
+      <speech>my output and try to
+move my zoom screen over
+</speech>
+   </section>
+
+   <section num='70'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='12.330'/>
+         <end hour='00' minute='04' second='15.670'/>
+      </timeframe>
+
+      <speech>and you can see my
+sorted stage locations
+</speech>
+   </section>
+
+   <section num='71'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='15.670'/>
+         <end hour='00' minute='04' second='19.010'/>
+      </timeframe>
+
+      <speech>are spaceship hallway
+hospital and as soon
+</speech>
+   </section>
+
+   <section num='72'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='19.010'/>
+         <end hour='00' minute='04' second='21.490'/>
+      </timeframe>
+
+      <speech>as i saw that i knew
+this was what i wanted
+</speech>
+   </section>
+
+   <section num='73'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='21.490'/>
+         <end hour='00' minute='04' second='24.210'/>
+      </timeframe>
+
+      <speech>um i wanted i did
+that i want to look at
+</speech>
+   </section>
+
+   <section num='74'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='24.210'/>
+         <end hour='00' minute='04' second='26.250'/>
+      </timeframe>
+
+      <speech>my output usually
+when i'm about to plot
+</speech>
+   </section>
+
+   <section num='75'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='26.250'/>
+         <end hour='00' minute='04' second='30.050'/>
+      </timeframe>
+
+      <speech>to make sure i i got
+it right so i may have
+</speech>
+   </section>
+
+   <section num='76'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='30.050'/>
+         <end hour='00' minute='04' second='32.830'/>
+      </timeframe>
+
+      <speech>been able to i i didn't
+get this working in
+</speech>
+   </section>
+
+   <section num='77'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='32.830'/>
+         <end hour='00' minute='04' second='34.930'/>
+      </timeframe>
+
+      <speech>the real for each
+over this where i'm
+</speech>
+   </section>
+
+   <section num='78'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='34.930'/>
+         <end hour='00' minute='04' second='37.510'/>
+      </timeframe>
+
+      <speech>plotting the g elements
+but i did it up here
+</speech>
+   </section>
+
+   <section num='79'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='37.510'/>
+         <end hour='00' minute='04' second='40.690'/>
+      </timeframe>
+
+      <speech>i'm going to use sorted
+stage locations now
+</speech>
+   </section>
+
+   <section num='80'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='41.190'/>
+         <end hour='00' minute='04' second='44.790'/>
+      </timeframe>
+
+      <speech>and when I began
+plotting I changed this
+</speech>
+   </section>
+
+   <section num='81'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='44.790'/>
+         <end hour='00' minute='04' second='48.050'/>
+      </timeframe>
+
+      <speech>from distinct stage
+locations to sorted stage
+</speech>
+   </section>
+
+   <section num='82'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='48.050'/>
+         <end hour='00' minute='04' second='50.490'/>
+      </timeframe>
+
+      <speech>locations and you'll
+see that change when
+</speech>
+   </section>
+
+   <section num='83'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='50.490'/>
+         <end hour='00' minute='04' second='54.400'/>
+      </timeframe>
+
+      <speech>I go to push my code
+in a few minutes I'll
+</speech>
+   </section>
+
+   <section num='84'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='54.870'/>
+         <end hour='00' minute='04' second='57.950'/>
+      </timeframe>
+
+      <speech>that this has changed
+and now it's it's going
+</speech>
+   </section>
+
+   <section num='85'>
+
+      <timeframe>
+         <start hour='00' minute='04' second='57.950'/>
+         <end hour='00' minute='05' second='00.750'/>
+      </timeframe>
+
+      <speech>to be plotting these
+in the sort order and
+</speech>
+   </section>
+
+   <section num='86'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='00.750'/>
+         <end hour='00' minute='05' second='02.650'/>
+      </timeframe>
+
+      <speech>then I keep pretty much
+everything else the
+</speech>
+   </section>
+
+   <section num='87'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='02.650'/>
+         <end hour='00' minute='05' second='06.530'/>
+      </timeframe>
+
+      <speech>same except I needed
+to remember to change
+</speech>
+   </section>
+
+   <section num='88'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='06.530'/>
+         <end hour='00' minute='05' second='09.570'/>
+      </timeframe>
+
+      <speech>my stack that this like
+change that variable
+</speech>
+   </section>
+
+   <section num='89'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='09.570'/>
+         <end hour='00' minute='05' second='11.750'/>
+      </timeframe>
+
+      <speech>down here where I'm
+doing the stacking
+</speech>
+   </section>
+
+   <section num='90'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='11.750'/>
+         <end hour='00' minute='05' second='14.110'/>
+      </timeframe>
+
+      <speech>so instead of making
+that based on distinct
+</speech>
+   </section>
+
+   <section num='91'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='14.110'/>
+         <end hour='00' minute='05' second='16.730'/>
+      </timeframe>
+
+      <speech>stage locations I now
+needed to use my new
+</speech>
+   </section>
+
+   <section num='92'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='16.730'/>
+         <end hour='00' minute='05' second='19.350'/>
+      </timeframe>
+
+      <speech>variable as soon as
+I did that I get the
+</speech>
+   </section>
+
+   <section num='93'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='19.350'/>
+         <end hour='00' minute='05' second='24.270'/>
+      </timeframe>
+
+      <speech>output that I want and
+I will switch my share
+</speech>
+   </section>
+
+   <section num='94'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='24.270'/>
+         <end hour='00' minute='05' second='28.420'/>
+      </timeframe>
+
+      <speech>again to just show this
+to you it all works
+</speech>
+   </section>
+
+   <section num='95'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='28.420'/>
+         <end hour='00' minute='05' second='33.360'/>
+      </timeframe>
+
+      <speech>this is all working
+the way I intended and
+</speech>
+   </section>
+
+   <section num='96'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='33.530'/>
+         <end hour='00' minute='05' second='36.510'/>
+      </timeframe>
+
+      <speech>we've got the output
+coming out sorting is
+</speech>
+   </section>
+
+   <section num='97'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='36.510'/>
+         <end hour='00' minute='05' second='39.050'/>
+      </timeframe>
+
+      <speech>a little tricky but
+now that you have one
+</speech>
+   </section>
+
+   <section num='98'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='39.050'/>
+         <end hour='00' minute='05' second='42.510'/>
+      </timeframe>
+
+      <speech>that's working to use
+as a model I hope that
+</speech>
+   </section>
+
+   <section num='99'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='42.510'/>
+         <end hour='00' minute='05' second='44.350'/>
+      </timeframe>
+
+      <speech>you'll find this
+helpful in your own code
+</speech>
+   </section>
+
+   <section num='100'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='44.350'/>
+         <end hour='00' minute='05' second='48.350'/>
+      </timeframe>
+
+      <speech>okay so two videos
+today and I hope this is
+</speech>
+   </section>
+
+   <section num='101'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='48.350'/>
+         <end hour='00' minute='05' second='51.310'/>
+      </timeframe>
+
+      <speech>useful to you good luck
+with the assignment
+</speech>
+   </section>
+
+   <section num='102'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='51.310'/>
+         <end hour='00' minute='05' second='54.090'/>
+      </timeframe>
+
+      <speech>for next week I'm gonna
+quickly look at that
+</speech>
+   </section>
+
+   <section num='103'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='54.090'/>
+         <end hour='00' minute='05' second='56.570'/>
+      </timeframe>
+
+      <speech>while I'm on the zoom
+with you let's go
+</speech>
+   </section>
+
+   <section num='104'>
+
+      <timeframe>
+         <start hour='00' minute='05' second='56.570'/>
+         <end hour='00' minute='06' second='02.470'/>
+      </timeframe>
+
+      <speech>back here take a look
+at assignments so this
+</speech>
+   </section>
+
+   <section num='105'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='02.470'/>
+         <end hour='00' minute='06' second='04.990'/>
+      </timeframe>
+
+      <speech>is a little little
+exercise for Monday to
+</speech>
+   </section>
+
+   <section num='106'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='04.990'/>
+         <end hour='00' minute='06' second='07.030'/>
+      </timeframe>
+
+      <speech>introduce the new
+regular expressions unit
+</speech>
+   </section>
+
+   <section num='107'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='07.030'/>
+         <end hour='00' minute='06' second='09.610'/>
+      </timeframe>
+
+      <speech>but this very last
+thing it's like kind of
+</speech>
+   </section>
+
+   <section num='108'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='09.610'/>
+         <end hour='00' minute='06' second='12.470'/>
+      </timeframe>
+
+      <speech>our last hurrah for
+this unit plotting svg
+</speech>
+   </section>
+
+   <section num='109'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='12.470'/>
+         <end hour='00' minute='06' second='16.310'/>
+      </timeframe>
+
+      <speech>with xslt it's the small
+test project i'm going
+</speech>
+   </section>
+
+   <section num='110'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='16.310'/>
+         <end hour='00' minute='06' second='20.850'/>
+      </timeframe>
+
+      <speech>to invite you to go
+over um choose some
+</speech>
+   </section>
+
+   <section num='111'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='20.850'/>
+         <end hour='00' minute='06' second='24.750'/>
+      </timeframe>
+
+      <speech>xml to start with um
+i was suggesting this
+</speech>
+   </section>
+
+   <section num='112'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='24.750'/>
+         <end hour='00' minute='06' second='28.150'/>
+      </timeframe>
+
+      <speech>um like working the
+vogue project team could
+</speech>
+   </section>
+
+   <section num='113'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='28.150'/>
+         <end hour='00' minute='06' second='30.370'/>
+      </timeframe>
+
+      <speech>work with a collection
+of their files but
+</speech>
+   </section>
+
+   <section num='114'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='30.370'/>
+         <end hour='00' minute='06' second='33.410'/>
+      </timeframe>
+
+      <speech>you can kind of see um
+some interesting things
+</speech>
+   </section>
+
+   <section num='115'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='33.410'/>
+         <end hour='00' minute='06' second='38.270'/>
+      </timeframe>
+
+      <speech>here coded with rs you
+could count materials
+</speech>
+   </section>
+
+   <section num='116'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='38.270'/>
+         <end hour='00' minute='06' second='42.690'/>
+      </timeframe>
+
+      <speech>um fabrics garments
+like find something
+</speech>
+   </section>
+
+   <section num='117'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='42.690'/>
+         <end hour='00' minute='06' second='45.750'/>
+      </timeframe>
+
+      <speech>get counts of things
+and count how many
+</speech>
+   </section>
+
+   <section num='118'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='45.750'/>
+         <end hour='00' minute='06' second='47.930'/>
+      </timeframe>
+
+      <speech>there are of that type
+so i'd suggest maybe
+</speech>
+   </section>
+
+   <section num='119'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='47.930'/>
+         <end hour='00' minute='06' second='51.690'/>
+      </timeframe>
+
+      <speech>looking at colors or
+something because this
+</speech>
+   </section>
+
+   <section num='120'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='51.690'/>
+         <end hour='00' minute='06' second='54.470'/>
+      </timeframe>
+
+      <speech>team was really interested
+in the colors like
+</speech>
+   </section>
+
+   <section num='121'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='54.470'/>
+         <end hour='00' minute='06' second='56.750'/>
+      </timeframe>
+
+      <speech>what colors were
+popular in a given era.
+</speech>
+   </section>
+
+   <section num='122'>
+
+      <timeframe>
+         <start hour='00' minute='06' second='57.350'/>
+         <end hour='00' minute='07' second='01.990'/>
+      </timeframe>
+
+      <speech>And you can count
+the number of
+</speech>
+   </section>
+
+   <section num='123'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='01.990'/>
+         <end hour='00' minute='07' second='04.670'/>
+      </timeframe>
+
+      <speech>things of a kind
+that have variety,
+</speech>
+   </section>
+
+   <section num='124'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='04.670'/>
+         <end hour='00' minute='07' second='06.290'/>
+      </timeframe>
+
+      <speech>like what are the
+different values
+</speech>
+   </section>
+
+   <section num='125'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='06.290'/>
+         <end hour='00' minute='07' second='09.070'/>
+      </timeframe>
+
+      <speech>of color in this
+chunk of code.
+</speech>
+   </section>
+
+   <section num='126'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='09.310'/>
+         <end hour='00' minute='07' second='11.490'/>
+      </timeframe>
+
+      <speech>You can, if you're ready
+</speech>
+   </section>
+
+   <section num='127'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='11.490'/>
+         <end hour='00' minute='07' second='13.070'/>
+      </timeframe>
+
+      <speech>to process a collection,
+</speech>
+   </section>
+
+   <section num='128'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='13.750'/>
+         <end hour='00' minute='07' second='17.070'/>
+      </timeframe>
+
+      <speech>you could process the
+collection of these
+</speech>
+   </section>
+
+   <section num='129'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='17.070'/>
+         <end hour='00' minute='07' second='19.810'/>
+      </timeframe>
+
+      <speech>TEI files. I'm going
+to prepare a mock-up of
+</speech>
+   </section>
+
+   <section num='130'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='19.810'/>
+         <end hour='00' minute='07' second='21.850'/>
+      </timeframe>
+
+      <speech>that this weekend so
+that you know how to
+</speech>
+   </section>
+
+   <section num='131'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='21.850'/>
+         <end hour='00' minute='07' second='24.330'/>
+      </timeframe>
+
+      <speech>work with a collection
+of XML instead of just
+</speech>
+   </section>
+
+   <section num='132'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='24.330'/>
+         <end hour='00' minute='07' second='28.190'/>
+      </timeframe>
+
+      <speech>one file to make an
+SVG plot but it's gonna
+</speech>
+   </section>
+
+   <section num='133'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='28.190'/>
+         <end hour='00' minute='07' second='30.070'/>
+      </timeframe>
+
+      <speech>work essentially the
+same way you sort of
+</speech>
+   </section>
+
+   <section num='134'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='30.070'/>
+         <end hour='00' minute='07' second='33.830'/>
+      </timeframe>
+
+      <speech>drill into these files
+count the number of
+</speech>
+   </section>
+
+   <section num='135'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='33.830'/>
+         <end hour='00' minute='07' second='37.750'/>
+      </timeframe>
+
+      <speech>things that like that
+represent a color and
+</speech>
+   </section>
+
+   <section num='136'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='37.750'/>
+         <end hour='00' minute='07' second='42.510'/>
+      </timeframe>
+
+      <speech>output them so we'll
+try that another option
+</speech>
+   </section>
+
+   <section num='137'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='42.510'/>
+         <end hour='00' minute='07' second='44.910'/>
+      </timeframe>
+
+      <speech>you could look at is
+the pokey this Pokemon
+</speech>
+   </section>
+
+   <section num='138'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='44.910'/>
+         <end hour='00' minute='07' second='49.730'/>
+      </timeframe>
+
+      <speech>moves file which let
+me see where did I put
+</speech>
+   </section>
+
+   <section num='139'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='49.730'/>
+         <end hour='00' minute='07' second='55.390'/>
+      </timeframe>
+
+      <speech>that that's going to be
+in what it's probably
+</speech>
+   </section>
+
+   <section num='140'>
+
+      <timeframe>
+         <start hour='00' minute='07' second='55.390'/>
+         <end hour='00' minute='08' second='02.950'/>
+      </timeframe>
+
+      <speech>faster for me to get
+to this fire text
+</speech>
+   </section>
+
+   <section num='141'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='02.950'/>
+         <end hour='00' minute='08' second='06.190'/>
+      </timeframe>
+
+      <speech>analysis hub if I do
+that from here I can just
+</speech>
+   </section>
+
+   <section num='142'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='06.190'/>
+         <end hour='00' minute='08' second='08.050'/>
+      </timeframe>
+
+      <speech>show you where this
+is my stuff's always
+</speech>
+   </section>
+
+   <section num='143'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='08.050'/>
+         <end hour='00' minute='08' second='12.530'/>
+      </timeframe>
+
+      <speech>in class examples and
+you will find an XSLT
+</speech>
+   </section>
+
+   <section num='144'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='12.530'/>
+         <end hour='00' minute='08' second='16.030'/>
+      </timeframe>
+
+      <speech>to SVG here's a little
+Pokemon on moves folder
+</speech>
+   </section>
+
+   <section num='145'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='16.030'/>
+         <end hour='00' minute='08' second='19.850'/>
+      </timeframe>
+
+      <speech>and there's some pretty
+simple xml in here
+</speech>
+   </section>
+
+   <section num='146'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='19.850'/>
+         <end hour='00' minute='08' second='25.030'/>
+      </timeframe>
+
+      <speech>where every move element
+has categories and
+</speech>
+   </section>
+
+   <section num='147'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='25.030'/>
+         <end hour='00' minute='08' second='29.330'/>
+      </timeframe>
+
+      <speech>you could count up the
+number of different
+</speech>
+   </section>
+
+   <section num='148'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='29.330'/>
+         <end hour='00' minute='08' second='31.510'/>
+      </timeframe>
+
+      <speech>things that are like
+that share the same
+</speech>
+   </section>
+
+   <section num='149'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='31.510'/>
+         <end hour='00' minute='08' second='35.170'/>
+      </timeframe>
+
+      <speech>category um get a count
+of those things and
+</speech>
+   </section>
+
+   <section num='150'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='35.170'/>
+         <end hour='00' minute='08' second='38.310'/>
+      </timeframe>
+
+      <speech>then try to plot them
+you know you know as the
+</speech>
+   </section>
+
+   <section num='151'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='38.310'/>
+         <end hour='00' minute='08' second='40.910'/>
+      </timeframe>
+
+      <speech>parts that make a
+whole these are um this
+</speech>
+   </section>
+
+   <section num='152'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='40.910'/>
+         <end hour='00' minute='08' second='43.090'/>
+      </timeframe>
+
+      <speech>is this is some good
+data to help show that
+</speech>
+   </section>
+
+   <section num='153'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='43.090'/>
+         <end hour='00' minute='08' second='45.630'/>
+      </timeframe>
+
+      <speech>so mess around you
+don't have to use these
+</speech>
+   </section>
+
+   <section num='154'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='45.630'/>
+         <end hour='00' minute='08' second='47.710'/>
+      </timeframe>
+
+      <speech>two files but I'm
+suggesting that they might
+</speech>
+   </section>
+
+   <section num='155'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='47.710'/>
+         <end hour='00' minute='08' second='52.070'/>
+      </timeframe>
+
+      <speech>be good for doing a
+quick visual analysis
+</speech>
+   </section>
+
+   <section num='156'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='52.070'/>
+         <end hour='00' minute='08' second='57.550'/>
+      </timeframe>
+
+      <speech>and see if you can make
+some kind of SVG plot
+</speech>
+   </section>
+
+   <section num='157'>
+
+      <timeframe>
+         <start hour='00' minute='08' second='57.550'/>
+         <end hour='00' minute='08' second='59.750'/>
+      </timeframe>
+
+      <speech>that plots the parts
+of a complete whole.
+</speech>
+   </section>
+
+   <section num='158'>
+
+      <timeframe>
+         <start hour='00' minute='09' second='00.210'/>
+         <end hour='00' minute='09' second='03.650'/>
+      </timeframe>
+
+      <speech>Alright, that's it.
+I'm happy that finally
+</speech>
+   </section>
+
+   <section num='159'>
+
+      <timeframe>
+         <start hour='00' minute='09' second='03.650'/>
+         <end hour='00' minute='09' second='05.850'/>
+      </timeframe>
+
+      <speech>worked and I will
+see you next week.</speech>
+   </section>
+</xml>
