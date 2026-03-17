@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <openings total="100">
+
+        <opening id="1">
+            <name>Ruy Lopez</name>
+            <eco>C60</eco>
+            <moves>1.e4 e5 2.Nf3 Nc6 3.Bb5</moves>
+        </opening>
+        <opening id="2">
+            <name>Sicilian Defense</name>
+            <eco>B20</eco>
+            <moves>1.e4 c5</moves>
+        </opening>
+        <opening id="3">
+            <name>French Defense</name>
+            <eco>C00</eco>
+            <moves>1.e4 e6</moves>
+        </opening>
+        <opening id="4">
+            <name>Caro-Kann Defense</name>
+            <eco>B10</eco>
+            <moves>1.e4 c6</moves>
+        </opening>
+        <opening id="5">
+            <name>Queen's Gambit</name>
+            <eco>D06</eco>
+            <moves>1.d4 d5 2.c4</moves>
+        </opening>
+        <opening id="6">
+            <name>King's Indian Defense</name>
+            <eco>E60</eco>
+            <moves>1.d4 Nf6 2.c4 g6</moves>
+        </opening>
+        <opening id="7">
+            <name>English Opening</name>
+            <eco>A10</eco>
+            <moves>1.c4</moves>
+        </opening>
+        <opening id="8">
+            <name>Scandinavian Defense</name>
+            <eco>B01</eco>
+            <moves>1.e4 d5</moves>
+        </opening>
+        <opening id="9">
+            <name>Pirc Defense</name>
+            <eco>B07</eco>
+            <moves>1.e4 d6 2.d4 Nf6</moves>
+        </opening>
+        <opening id="10">
+            <name>Alekhine Defense</name>
+            <eco>B02</eco>
+            <moves>1.e4 Nf6</moves>
+        </opening>
+
+        <opening id="11">
+            <name>Modern Defense</name>
+            <eco>B06</eco>
+            <moves>1.e4 g6</moves>
+        </opening>
+        <opening id="12">
+            <name>Vienna Game</name>
+            <eco>C25</eco>
+            <moves>1.e4 e5 2.Nc3</moves>
+        </opening>
+        <opening id="13">
+            <name>Scotch Game</name>
+            <eco>C45</eco>
+            <moves>1.e4 e5 2.Nf3 Nc6 3.d4</moves>
+        </opening>
+        <opening id="14">
+            <name>Italian Game</name>
+            <eco>C50</eco>
+            <moves>1.e4 e5 2.Nf3 Nc6 3.Bc4</moves>
+        </opening>
+        <opening id="15">
+            <name>Petrov Defense</name>
+            <eco>C42</eco>
+            <moves>1.e4 e5 2.Nf3 Nf6</moves>
+        </opening>
+        <opening id="16">
+            <name>Philidor Defense</name>
+            <eco>C41</eco>
+            <moves>1.e4 e5 2.Nf3 d6</moves>
+        </opening>
+        <opening id="17">
+            <name>King's Gambit</name>
+            <eco>C30</eco>
+            <moves>1.e4 e5 2.f4</moves>
+        </opening>
+        <opening id="18">
+            <name>Evans Gambit</name>
+            <eco>C51</eco>
+            <moves>1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4</moves>
+        </opening>
+        <opening id="19">
+            <name>Benoni Defense</name>
+            <eco>A60</eco>
+            <moves>1.d4 Nf6 2.c4 c5</moves>
+        </opening>
+        <opening id="20">
+            <name>Benko Gambit</name>
+            <eco>A57</eco>
+            <moves>1.d4 Nf6 2.c4 c5 3.d5 b5</moves>
+        </opening>
+
+        <opening id="21">
+            <name>Grünfeld Defense</name>
+            <eco>D85</eco>
+            <moves>1.d4 Nf6 2.c4 g6 3.Nc3 d5</moves>
+        </opening>
+        <opening id="22">
+            <name>Nimzo-Indian Defense</name>
+            <eco>E20</eco>
+            <moves>1.d4 Nf6 2.c4 e6 3.Nc3 Bb4</moves>
+        </opening>
+        <opening id="23">
+            <name>Queen's Indian Defense</name>
+            <eco>E12</eco>
+            <moves>1.d4 Nf6 2.c4 e6 3.Nf3 b6</moves>
+        </opening>
+        <opening id="24">
+            <name>Bogo-Indian Defense</name>
+            <eco>E11</eco>
+            <moves>1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+</moves>
+        </opening>
+        <opening id="25">
+            <name>Slav Defense</name>
+            <eco>D10</eco>
+            <moves>1.d4 d5 2.c4 c6</moves>
+        </opening>
+        <opening id="26">
+            <name>Semi-Slav Defense</name>
+            <eco>D43</eco>
+            <moves>1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6</moves>
+        </opening>
+        <opening id="27">
+            <name>Stonewall Attack</name>
+            <eco>D00</eco>
+            <moves>1.d4 d5 2.e3</moves>
+        </opening>
+        <opening id="28">
+            <name>London System</name>
+            <eco>D02</eco>
+            <moves>1.d4 d5 2.Nf3 Nf6 3.Bf4</moves>
+        </opening>
+        <opening id="29">
+            <name>Torre Attack</name>
+            <eco>A46</eco>
+            <moves>1.d4 Nf6 2.Nf3 e6 3.Bg5</moves>
+        </opening>
+        <opening id="30">
+            <name>Bird's Opening</name>
+            <eco>A02</eco>
+            <moves>1.f4</moves>
+        </opening>
+
+        <opening id="31">
+            <name>Polish Opening</name>
+            <eco>A00</eco>
+            <moves>1.b4</moves>
+        </opening>
+        <opening id="32">
+            <name>Grob Opening</name>
+            <eco>A00</eco>
+            <moves>1.g4</moves>
+        </opening>
+        <opening id="33">
+            <name>King's Indian Attack</name>
+            <eco>A05</eco>
+            <moves>1.Nf3 d5 2.g3</moves>
+        </opening>
+        <opening id="34">
+            <name>Colle System</name>
+            <eco>D05</eco>
+            <moves>1.d4 d5 2.Nf3 Nf6 3.e3</moves>
+        </opening>
+        <opening id="35">
+            <name>Reti Opening</name>
+            <eco>A04</eco>
+            <moves>1.Nf3</moves>
+        </opening>
+        <opening id="36">
+            <name>Catalan Opening</name>
+            <eco>E00</eco>
+            <moves>1.d4 Nf6 2.c4 e6 3.g3</moves>
+        </opening>
+        <opening id="37">
+            <name>Dutch Defense</name>
+            <eco>A80</eco>
+            <moves>1.d4 f5</moves>
+        </opening>
+        <opening id="38">
+            <name>Trompowsky Attack</name>
+            <eco>A45</eco>
+            <moves>1.d4 Nf6 2.Bg5</moves>
+        </opening>
+        <opening id="39">
+            <name>Three Knights Game</name>
+            <eco>C46</eco>
+            <moves>1.e4 e5 2.Nf3 Nc6 3.Nc3</moves>
+        </opening>
+        <opening id="40">
+            <name>Four Knights Game</name>
+            <eco>C47</eco>
+            <moves>1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6</moves>
+        </opening>
+        <opening id="41">
+            <name>Center Game</name>
+            <eco>C21</eco>
+            <moves>1.e4 e5 2.d4</moves>
+        </opening>
+        <opening id="42">
+            <name>Blackmar-Diemer Gambit</name>
+            <eco>D00</eco>
+            <moves>1.d4 d5 2.e4</moves>
+        </opening>
+        <opening id="43">
+            <name>Latvian Gambit</name>
+            <eco>C40</eco>
+            <moves>1.e4 e5 2.Nf3 f5</moves>
+        </opening>
+        <opening id="44">
+            <name>Elephant Gambit</name>
+            <eco>C40</eco>
+            <moves>1.e4 e5 2.Nf3 d5</moves>
+        </opening>
+        <opening id="45">
+            <name>Alapin Sicilian</name>
+            <eco>B22</eco>
+            <moves>1.e4 c5 2.c3</moves>
+        </opening>
+        <opening id="46">
+            <name>Smith-Morra Gambit</name>
+            <eco>B21</eco>
+            <moves>1.e4 c5 2.d4</moves>
+        </opening>
+        <opening id="47">
+            <name>Grand Prix Attack</name>
+            <eco>B23</eco>
+            <moves>1.e4 c5 2.Nc3</moves>
+        </opening>
+        <opening id="48">
+            <name>Closed Sicilian</name>
+            <eco>B23</eco>
+            <moves>1.e4 c5 2.Nc3 Nc6</moves>
+        </opening>
+        <opening id="49">
+            <name>Dragon Sicilian</name>
+            <eco>B70</eco>
+            <moves>1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6</moves>
+        </opening>
+        <opening id="50">
+            <name>Najdorf Sicilian</name>
+            <eco>B90</eco>
+            <moves>1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6</moves>
+        </opening>
+
+        <opening id="51">
+            <name>Scheveningen Sicilian</name>
+            <eco>B80</eco>
+            <moves>1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 e6</moves>
+        </opening>
+        <opening id="52">
+            <name>Taimanov Sicilian</name>
+            <eco>B47</eco>
+            <moves>1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6</moves>
+        </opening>
+        <opening id="53">
+            <name>Kan Sicilian</name>
+            <eco>B42</eco>
+            <moves>1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6</moves>
+        </opening>
+        <opening id="54">
+            <name>Sveshnikov Sicilian</name>
+            <eco>B33</eco>
+            <moves>1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5</moves>
+        </opening>
+        <opening id="55">
+            <name>Kalashnikov Sicilian</name>
+            <eco>B32</eco>
+            <moves>1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5</moves>
+        </opening>
+        <opening id="56">
+            <name>Chigorin Defense</name>
+            <eco>D07</eco>
+            <moves>1.d4 d5 2.c4 Nc6</moves>
+        </opening>
+        <opening id="57">
+            <name>Budapest Gambit</name>
+            <eco>A51</eco>
+            <moves>1.d4 Nf6 2.c4 e5</moves>
+        </opening>
+        <opening id="58">
+            <name>Albin Countergambit</name>
+            <eco>D08</eco>
+            <moves>1.d4 d5 2.c4 e5</moves>
+        </opening>
+        <opening id="59">
+            <name>Marshall Gambit</name>
+            <eco>C89</eco>
+            <moves>Ruy Lopez Marshall line</moves>
+        </opening>
+        <opening id="60">
+            <name>Giuoco Piano</name>
+            <eco>C54</eco>
+            <moves>1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5</moves>
+        </opening>
+
+        <opening id="61">
+            <name>Two Knights Defense</name>
+            <eco>C55</eco>
+            <moves>1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6</moves>
+        </opening>
+        <opening id="62">
+            <name>Berlin Defense</name>
+            <eco>C65</eco>
+            <moves>1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6</moves>
+        </opening>
+        <opening id="63">
+            <name>Open Spanish</name>
+            <eco>C80</eco>
+            <moves>Ruy Lopez Open variation</moves>
+        </opening>
+        <opening id="64">
+            <name>Closed Spanish</name>
+            <eco>C84</eco>
+            <moves>Ruy Lopez Closed variation</moves>
+        </opening>
+        <opening id="65">
+            <name>Exchange French</name>
+            <eco>C01</eco>
+            <moves>1.e4 e6 2.d4 d5 3.exd5</moves>
+        </opening>
+        <opening id="66">
+            <name>Advance French</name>
+            <eco>C02</eco>
+            <moves>1.e4 e6 2.d4 d5 3.e5</moves>
+        </opening>
+        <opening id="67">
+            <name>Tarrasch French</name>
+            <eco>C03</eco>
+            <moves>1.e4 e6 2.d4 d5 3.Nd2</moves>
+        </opening>
+        <opening id="68">
+            <name>Winawer French</name>
+            <eco>C15</eco>
+            <moves>1.e4 e6 2.d4 d5 3.Nc3 Bb4</moves>
+        </opening>
+        <opening id="69">
+            <name>Panov Caro-Kann</name>
+            <eco>B13</eco>
+            <moves>1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4</moves>
+        </opening>
+        <opening id="70">
+            <name>Exchange Caro-Kann</name>
+            <eco>B13</eco>
+            <moves>1.e4 c6 2.d4 d5 3.exd5</moves>
+        </opening>
+
+        <opening id="71">
+            <name>Advance Caro-Kann</name>
+            <eco>B12</eco>
+            <moves>1.e4 c6 2.d4 d5 3.e5</moves>
+        </opening>
+        <opening id="72">
+            <name>Classical Caro-Kann</name>
+            <eco>B18</eco>
+            <moves>1.e4 c6 2.d4 d5 3.Nc3 dxe4</moves>
+        </opening>
+        <opening id="73">
+            <name>Accelerated Dragon</name>
+            <eco>B34</eco>
+            <moves>Sicilian Accelerated Dragon</moves>
+        </opening>
+        <opening id="74">
+            <name>Hyper-Accelerated Dragon</name>
+            <eco>B27</eco>
+            <moves>1.e4 c5 2.Nf3 g6</moves>
+        </opening>
+        <opening id="75">
+            <name>King's Fianchetto Opening</name>
+            <eco>A00</eco>
+            <moves>1.g3</moves>
+        </opening>
+        <opening id="76">
+            <name>Van't Kruijs Opening</name>
+            <eco>A00</eco>
+            <moves>1.e3</moves>
+        </opening>
+        <opening id="77">
+            <name>Amar Opening</name>
+            <eco>A00</eco>
+            <moves>1.Nh3</moves>
+        </opening>
+        <opening id="78">
+            <name>Ware Opening</name>
+            <eco>A00</eco>
+            <moves>1.a4</moves>
+        </opening>
+        <opening id="79">
+            <name>Saragossa Opening</name>
+            <eco>A00</eco>
+            <moves>1.c3</moves>
+        </opening>
+        <opening id="80">
+            <name>Mieses Opening</name>
+            <eco>A00</eco>
+            <moves>1.d3</moves>
+        </opening>
+
+        <opening id="81">
+            <name>Polish Defense</name>
+            <eco>A40</eco>
+            <moves>1.d4 b5</moves>
+        </opening>
+        <opening id="82">
+            <name>Englund Gambit</name>
+            <eco>A40</eco>
+            <moves>1.d4 e5</moves>
+        </opening>
+        <opening id="83">
+            <name>Owen Defense</name>
+            <eco>B00</eco>
+            <moves>1.e4 b6</moves>
+        </opening>
+        <opening id="84">
+            <name>Nimzowitsch Defense</name>
+            <eco>B00</eco>
+            <moves>1.e4 Nc6</moves>
+        </opening>
+        <opening id="85">
+            <name>St. George Defense</name>
+            <eco>B00</eco>
+            <moves>1.e4 a6</moves>
+        </opening>
+        <opening id="86">
+            <name>King's Pawn Opening</name>
+            <eco>C20</eco>
+            <moves>1.e4 e5</moves>
+        </opening>
+        <opening id="87">
+            <name>Queen's Pawn Opening</name>
+            <eco>D00</eco>
+            <moves>1.d4 d5</moves>
+        </opening>
+        <opening id="88">
+            <name>Horwitz Defense</name>
+            <eco>C70</eco>
+            <moves>Ruy Lopez sideline</moves>
+        </opening>
+        <opening id="89">
+            <name>Janowski Variation</name>
+            <eco>C19</eco>
+            <moves>French sideline</moves>
+        </opening>
+        <opening id="90">
+            <name>Neo-Catalan</name>
+            <eco>E00</eco>
+            <moves>Catalan structure</moves>
+        </opening>
+
+        <opening id="91">
+            <name>West Indian Defense</name>
+            <eco>A40</eco>
+            <moves>1.d4 g6</moves>
+        </opening>
+        <opening id="92">
+            <name>Old Indian Defense</name>
+            <eco>A53</eco>
+            <moves>1.d4 Nf6 2.c4 d6</moves>
+        </opening>
+        <opening id="93">
+            <name>Blumenfeld Gambit</name>
+            <eco>E10</eco>
+            <moves>Blumenfeld structure</moves>
+        </opening>
+        <opening id="94">
+            <name>Fajarowicz Gambit</name>
+            <eco>A51</eco>
+            <moves>Budapest line</moves>
+        </opening>
+        <opening id="95">
+            <name>Portuguese Gambit</name>
+            <eco>C40</eco>
+            <moves>Scandinavian gambit line</moves>
+        </opening>
+        <opening id="96">
+            <name>Jerome Gambit</name>
+            <eco>C50</eco>
+            <moves>Italian gambit</moves>
+        </opening>
+        <opening id="97">
+            <name>Halloween Gambit</name>
+            <eco>C47</eco>
+            <moves>Four Knights gambit</moves>
+        </opening>
+        <opening id="98">
+            <name>Göring Gambit</name>
+            <eco>C44</eco>
+            <moves>Scotch Gambit line</moves>
+        </opening>
+        <opening id="99">
+            <name>Danish Gambit</name>
+            <eco>C21</eco>
+            <moves>1.e4 e5 2.d4 exd4 3.c3</moves>
+        </opening>
+        <opening id="100">
+            <name>Fried Liver Attack</name>
+            <eco>C57</eco>
+            <moves>Italian tactical line</moves>
+        </opening>
+
+
+    </openings>
+</xml>

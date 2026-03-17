@@ -1,0 +1,839 @@
+<xml>
+   <header>
+      <Label>Name</Label>
+      <Label>Type</Label>
+      <Label>Cat.</Label>
+      <Label>Power</Label>
+      <Label>Acc.</Label>
+      <Label>PP</Label>
+      <Label>Effect</Label>
+   </header>
+   <row>
+      <name>Acid Spray</name>	
+      <type>Poison</type>	
+      <category>Special </category>	
+      <power>40 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>20 </pp>	
+      <effect>Sharply lowers opponent's Special Defense.</effect>
+   </row>
+   <row>
+      <name>Acrobatics</name>	
+      <type>Flying</type>	
+      <category>Physical </category>	
+      <power>55 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Stronger when the user does not have a held item.</effect>
+   </row>
+   <row>
+      <name>After You</name>	
+      <type>Normal</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>15 </pp>	
+      <effect>Gives target priority in the next turn.</effect>
+   </row>
+   <row>
+      <name>Ally Switch</name>	
+      <type>Psychic</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>15 </pp>	
+      <effect>User switches with opposite teammate.</effect>
+   </row>
+   <row>
+      <name>Autotomize</name>	
+      <type>Steel</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>15 </pp>	
+      <effect>Reduces weight and sharply raises Speed.</effect>
+   </row>
+   <row>
+      <name>Bestow</name>	
+      <type>Normal</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>15 </pp>	
+      <effect>Gives the user's held item to the target.</effect>
+   </row>
+   <row>
+      <name>Blue Flare</name>	
+      <type>Fire</type>	
+      <category>Special </category>	
+      <power>130 </power>	
+      <accuracy>85 </accuracy>	
+      <pp>5 </pp>	
+      <effect>May burn opponent.</effect>
+   </row>
+   <row>
+      <name>Bolt Strike</name>	
+      <type>Electric</type>	
+      <category>Physical </category>	
+      <power>130 </power>	
+      <accuracy>85 </accuracy>	
+      <pp>5 </pp>	
+      <effect>May paralyze opponent.</effect>
+   </row>
+   <row>
+      <name>Bulldoze</name>	
+      <type>Ground</type>	
+      <category>Physical </category>	
+      <power>60 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>20 </pp>	
+      <effect>Lowers opponent's Speed.</effect>
+   </row>
+   <row>
+      <name>Chip Away</name>	
+      <type>Normal</type>	
+      <category>Physical </category>	
+      <power>70 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>20 </pp>	
+      <effect>Ignores opponent's stat changes.</effect>
+   </row>
+   <row>
+      <name>Circle Throw</name>	
+      <type>Fighting</type>	
+      <category>Physical </category>	
+      <power>60 </power>	
+      <accuracy>90 </accuracy>	
+      <pp>10 </pp>	
+      <effect>In battles, the opponent switches. In the wild, the Pokémon runs.</effect>
+   </row>
+   <row>
+      <name>Clear Smog</name>	
+      <type>Poison</type>	
+      <category>Special </category>	
+      <power>50 </power>	
+      <accuracy>— </accuracy>	
+      <pp>15 </pp>	
+      <effect>Removes all of the target's stat changes.</effect>
+   </row>
+   <row>
+      <name>Coil</name>	
+      <type>Poison</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>20 </pp>	
+      <effect>Raises user's Attack, Defense and Accuracy.</effect>
+   </row>
+   <row>
+      <name>Cotton Guard</name>	
+      <type>Grass</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>10 </pp>	
+      <effect>Drastically raises user's Defense.</effect>
+   </row>
+   <row>
+      <name>Dragon Tail</name>	
+      <type>Dragon</type>	
+      <category>Physical </category>	
+      <power>60 </power>	
+      <accuracy>90 </accuracy>	
+      <pp>10 </pp>	
+      <effect>In battles, the opponent switches. In the wild, the Pokémon runs.</effect>
+   </row>
+   <row>
+      <name>Drill Run</name>	
+      <type>Ground</type>	
+      <category>Physical </category>	
+      <power>80 </power>	
+      <accuracy>95 </accuracy>	
+      <pp>10 </pp>	
+      <effect>High critical hit ratio.</effect>
+   </row>
+   <row>
+      <name>Dual Chop</name>	
+      <type>Dragon</type>	
+      <category>Physical </category>	
+      <power>40 </power>	
+      <accuracy>90 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Hits twice in one turn.</effect>
+   </row>
+   <row>
+      <name>Echoed Voice</name>	
+      <type>Normal</type>	
+      <category>Special </category>	
+      <power>40 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Power increases each turn.</effect>
+   </row>
+   <row>
+      <name>Electro Ball</name>	
+      <type>Electric</type>	
+      <category>Special </category>	
+      <power>— </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>The faster the user, the stronger the attack.</effect>
+   </row>
+   <row>
+      <name>Electroweb</name>	
+      <type>Electric</type>	
+      <category>Special </category>	
+      <power>55 </power>	
+      <accuracy>95 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Lowers opponent's Speed.</effect>
+   </row>
+   <row>
+      <name>Entrainment</name>	
+      <type>Normal</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Makes target's ability same as user's.</effect>
+   </row>
+   <row>
+      <name>Fiery Dance</name>	
+      <type>Fire</type>	
+      <category>Special </category>	
+      <power>80 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>May raise user's Special Attack.</effect>
+   </row>
+   <row>
+      <name>Final Gambit</name>	
+      <type>Fighting</type>	
+      <category>Special </category>	
+      <power>— </power>	
+      <accuracy>100 </accuracy>	
+      <pp>5 </pp>	
+      <effect>Inflicts damage equal to the user's remaining HP. User faints.</effect>
+   </row>
+   <row>
+      <name>Fire Pledge</name>	
+      <type>Fire</type>	
+      <category>Special </category>	
+      <power>80 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Added effects appear if combined with Grass Pledge or Water Pledge.</effect>
+   </row>
+   <row>
+      <name>Flame Burst</name>	
+      <type>Fire</type>	
+      <category>Special </category>	
+      <power>70 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>May also injure nearby Pokémon.</effect>
+   </row>
+   <row>
+      <name>Flame Charge</name>	
+      <type>Fire</type>	
+      <category>Physical </category>	
+      <power>50 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>20 </pp>	
+      <effect>Raises user's Speed.</effect>
+   </row>
+   <row>
+      <name>Foul Play</name>	
+      <type>Dark</type>	
+      <category>Physical </category>	
+      <power>95 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Uses the opponent's Attack stat.</effect>
+   </row>
+   <row>
+      <name>Freeze Shock</name>	
+      <type>Ice</type>	
+      <category>Physical </category>	
+      <power>140 </power>	
+      <accuracy>90 </accuracy>	
+      <pp>5 </pp>	
+      <effect>Charges on first turn, attacks on second. May paralyze opponent.</effect>
+   </row>
+   <row>
+      <name>Frost Breath</name>	
+      <type>Ice</type>	
+      <category>Special </category>	
+      <power>60 </power>	
+      <accuracy>90 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Always results in a critical hit.</effect>
+   </row>
+   <row>
+      <name>Fusion Bolt</name>	
+      <type>Electric</type>	
+      <category>Physical </category>	
+      <power>100 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>5 </pp>	
+      <effect>Power increases if Fusion Flare is used in the same turn.</effect>
+   </row>
+   <row>
+      <name>Fusion Flare</name>	
+      <type>Fire</type>	
+      <category>Special </category>	
+      <power>100 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>5 </pp>	
+      <effect>Power increases if Fusion Bolt is used in the same turn.</effect>
+   </row>
+   <row>
+      <name>Gear Grind</name>	
+      <type>Steel</type>	
+      <category>Physical </category>	
+      <power>50 </power>	
+      <accuracy>85 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Hits twice in one turn.</effect>
+   </row>
+   <row>
+      <name>Glaciate</name>	
+      <type>Ice</type>	
+      <category>Special </category>	
+      <power>65 </power>	
+      <accuracy>95 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Lowers opponent's Speed.</effect>
+   </row>
+   <row>
+      <name>Grass Pledge</name>	
+      <type>Grass</type>	
+      <category>Special </category>	
+      <power>80 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.</effect>
+   </row>
+   <row>
+      <name>Guard Split</name>	
+      <type>Psychic</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>10 </pp>	
+      <effect>Averages Defense and Special Defense with the target.</effect>
+   </row>
+   <row>
+      <name>Head Charge</name>	
+      <type>Normal</type>	
+      <category>Physical </category>	
+      <power>120 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>User receives recoil damage.</effect>
+   </row>
+   <row>
+      <name>Heal Pulse</name>	
+      <type>Psychic</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>10 </pp>	
+      <effect>Restores half the target's max HP.</effect>
+   </row>
+   <row>
+      <name>Heart Stamp</name>	
+      <type>Psychic</type>	
+      <category>Physical </category>	
+      <power>60 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>25 </pp>	
+      <effect>May cause flinching.</effect>
+   </row>
+   <row>
+      <name>Heat Crash</name>	
+      <type>Fire</type>	
+      <category>Physical </category>	
+      <power>— </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>The heavier the user, the stronger the attack.</effect>
+   </row>
+   <row>
+      <name>Heavy Slam</name>	
+      <type>Steel</type>	
+      <category>Physical </category>	
+      <power>— </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>The heavier the user, the stronger the attack.</effect>
+   </row>
+   <row>
+      <name>Hex</name>	
+      <type>Ghost</type>	
+      <category>Special </category>	
+      <power>65 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Inflicts more damage if the target has a status condition.</effect>
+   </row>
+   <row>
+      <name>Hone Claws</name>	
+      <type>Dark</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>15 </pp>	
+      <effect>Raises user's Attack and Accuracy.</effect>
+   </row>
+   <row>
+      <name>Horn Leech</name>	
+      <type>Grass</type>	
+      <category>Physical </category>	
+      <power>75 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>User recovers half the HP inflicted on opponent.</effect>
+   </row>
+   <row>
+      <name>Hurricane</name>	
+      <type>Flying</type>	
+      <category>Special </category>	
+      <power>110 </power>	
+      <accuracy>70 </accuracy>	
+      <pp>10 </pp>	
+      <effect>May confuse opponent.</effect>
+   </row>
+   <row>
+      <name>Ice Burn</name>	
+      <type>Ice</type>	
+      <category>Special </category>	
+      <power>140 </power>	
+      <accuracy>90 </accuracy>	
+      <pp>5 </pp>	
+      <effect>Charges on first turn, attacks on second. May burn opponent.</effect>
+   </row>
+   <row>
+      <name>Icicle Crash</name>	
+      <type>Ice</type>	
+      <category>Physical </category>	
+      <power>85 </power>	
+      <accuracy>90 </accuracy>	
+      <pp>10 </pp>	
+      <effect>May cause flinching.</effect>
+   </row>
+   <row>
+      <name>Incinerate</name>	
+      <type>Fire</type>	
+      <category>Special </category>	
+      <power>60 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Destroys the target's held berry.</effect>
+   </row>
+   <row>
+      <name>Inferno</name>	
+      <type>Fire</type>	
+      <category>Special </category>	
+      <power>100 </power>	
+      <accuracy>50 </accuracy>	
+      <pp>5 </pp>	
+      <effect>Burns opponent.</effect>
+   </row>
+   <row>
+      <name>Leaf Tornado</name>	
+      <type>Grass</type>	
+      <category>Special </category>	
+      <power>65 </power>	
+      <accuracy>90 </accuracy>	
+      <pp>10 </pp>	
+      <effect>May lower opponent's Accuracy.</effect>
+   </row>
+   <row>
+      <name>Low Sweep</name>	
+      <type>Fighting</type>	
+      <category>Physical </category>	
+      <power>65 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>20 </pp>	
+      <effect>Lowers opponent's Speed.</effect>
+   </row>
+   <row>
+      <name>Magic Room</name>	
+      <type>Psychic</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>10 </pp>	
+      <effect>Suppresses the effects of held items for five turns.</effect>
+   </row>
+   <row>
+      <name>Night Daze</name>	
+      <type>Dark</type>	
+      <category>Special </category>	
+      <power>85 </power>	
+      <accuracy>95 </accuracy>	
+      <pp>10 </pp>	
+      <effect>May lower opponent's Accuracy.</effect>
+   </row>
+   <row>
+      <name>Power Split</name>	
+      <type>Psychic</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>10 </pp>	
+      <effect>Averages Attack and Special Attack with the target.</effect>
+   </row>
+   <row>
+      <name>Psyshock</name>	
+      <type>Psychic</type>	
+      <category>Special </category>	
+      <power>80 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Inflicts damage based on the target's Defense, not Special Defense.</effect>
+   </row>
+   <row>
+      <name>Psystrike</name>	
+      <type>Psychic</type>	
+      <category>Special </category>	
+      <power>100 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Inflicts damage based on the target's Defense, not Special Defense.</effect>
+   </row>
+   <row>
+      <name>Quash</name>	
+      <type>Dark</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Makes the target act last this turn.</effect>
+   </row>
+   <row>
+      <name>Quick Guard</name>	
+      <type>Fighting</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>15 </pp>	
+      <effect>Protects the user's team from high-priority moves.</effect>
+   </row>
+   <row>
+      <name>Quiver Dance</name>	
+      <type>Bug</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>20 </pp>	
+      <effect>Raises user's Special Attack, Special Defense and Speed.</effect>
+   </row>
+   <row>
+      <name>Rage Powder</name>	
+      <type>Bug</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>20 </pp>	
+      <effect>Forces attacks to hit user, not team-mates.</effect>
+   </row>
+   <row>
+      <name>Razor Shell</name>	
+      <type>Water</type>	
+      <category>Physical </category>	
+      <power>75 </power>	
+      <accuracy>95 </accuracy>	
+      <pp>10 </pp>	
+      <effect>May lower opponent's Defense.</effect>
+   </row>
+   <row>
+      <name>Reflect Type</name>	
+      <type>Normal</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>15 </pp>	
+      <effect>User becomes the target's type.</effect>
+   </row>
+   <row>
+      <name>Relic Song</name>	
+      <type>Normal</type>	
+      <category>Special </category>	
+      <power>75 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>May put the target to sleep.</effect>
+   </row>
+   <row>
+      <name>Retaliate</name>	
+      <type>Normal</type>	
+      <category>Physical </category>	
+      <power>70 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>5 </pp>	
+      <effect>Inflicts double damage if a teammate fainted on the last turn.</effect>
+   </row>
+   <row>
+      <name>Round</name>	
+      <type>Normal</type>	
+      <category>Special </category>	
+      <power>60 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Power increases if teammates use it in the same turn.</effect>
+   </row>
+   <row>
+      <name>Sacred Sword</name>	
+      <type>Fighting</type>	
+      <category>Physical </category>	
+      <power>90 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Ignores opponent's stat changes.</effect>
+   </row>
+   <row>
+      <name>Scald</name>	
+      <type>Water</type>	
+      <category>Special </category>	
+      <power>80 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>May burn opponent.</effect>
+   </row>
+   <row>
+      <name>Searing Shot</name>	
+      <type>Fire</type>	
+      <category>Special </category>	
+      <power>100 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>5 </pp>	
+      <effect>May burn opponent.</effect>
+   </row>
+   <row>
+      <name>Secret Sword</name>	
+      <type>Fighting</type>	
+      <category>Special </category>	
+      <power>85 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Inflicts damage based on the target's Defense, not Special Defense.</effect>
+   </row>
+   <row>
+      <name>Shell Smash</name>	
+      <type>Normal</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>15 </pp>	
+      <effect>Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.</effect>
+   </row>
+   <row>
+      <name>Shift Gear</name>	
+      <type>Steel</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>10 </pp>	
+      <effect>Raises user's Attack and sharply raises Speed.</effect>
+   </row>
+   <row>
+      <name>Simple Beam</name>	
+      <type>Normal</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Changes target's ability to Simple.</effect>
+   </row>
+   <row>
+      <name>Sky Drop</name>	
+      <type>Flying</type>	
+      <category>Physical </category>	
+      <power>60 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Takes opponent into the air on first turn, drops them on second turn.</effect>
+   </row>
+   <row>
+      <name>Sludge Wave</name>	
+      <type>Poison</type>	
+      <category>Special </category>	
+      <power>95 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>May poison opponent.</effect>
+   </row>
+   <row>
+      <name>Smack Down</name>	
+      <type>Rock</type>	
+      <category>Physical </category>	
+      <power>50 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Makes Flying-type Pokémon vulnerable to Ground moves.</effect>
+   </row>
+   <row>
+      <name>Snarl</name>	
+      <type>Dark</type>	
+      <category>Special </category>	
+      <power>55 </power>	
+      <accuracy>95 </accuracy>	
+      <pp>15 </pp>	
+      <effect>Lowers opponent's Special Attack.</effect>
+   </row>
+   <row>
+      <name>Soak</name>	
+      <type>Water</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>100 </accuracy>	
+      <pp>20 </pp>	
+      <effect>Changes the target's type to water.</effect>
+   </row>
+   <row>
+      <name>Steamroller</name>	
+      <type>Bug</type>	
+      <category>Physical </category>	
+      <power>65 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>20 </pp>	
+      <effect>May cause flinching.</effect>
+   </row>
+   <row>
+      <name>Stored Power</name>	
+      <type>Psychic</type>	
+      <category>Special </category>	
+      <power>20 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Power increases when user's stats have been raised.</effect>
+   </row>
+   <row>
+      <name>Storm Throw</name>	
+      <type>Fighting</type>	
+      <category>Physical </category>	
+      <power>60 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Always results in a critical hit.</effect>
+   </row>
+   <row>
+      <name>Struggle Bug</name>	
+      <type>Bug</type>	
+      <category>Special </category>	
+      <power>50 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>20 </pp>	
+      <effect>Lowers opponent's Special Attack.</effect>
+   </row>
+   <row>
+      <name>Synchronoise</name>	
+      <type>Psychic</type>	
+      <category>Special </category>	
+      <power>120 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Hits any Pokémon that shares a type with the user.</effect>
+   </row>
+   <row>
+      <name>Tail Slap</name>	
+      <type>Normal</type>	
+      <category>Physical </category>	
+      <power>25 </power>	
+      <accuracy>85 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Hits 2-5 times in one turn.</effect>
+   </row>
+   <row>
+      <name>Techno Blast</name>	
+      <type>Normal</type>	
+      <category>Special </category>	
+      <power>120 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>5 </pp>	
+      <effect>Type depends on the Drive being held.</effect>
+   </row>
+   <row>
+      <name>Telekinesis</name>	
+      <type>Psychic</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>15 </pp>	
+      <effect>Ignores opponent's Evasiveness for three turns, add Ground immunity.</effect>
+   </row>
+   <row>
+      <name>V-create</name>	
+      <type>Fire</type>	
+      <category>Physical </category>	
+      <power>180 </power>	
+      <accuracy>95 </accuracy>	
+      <pp>5 </pp>	
+      <effect>Lowers user's Defense, Special Defense and Speed.</effect>
+   </row>
+   <row>
+      <name>Venoshock</name>	
+      <type>Poison</type>	
+      <category>Special </category>	
+      <power>65 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Inflicts double damage if the target is poisoned.</effect>
+   </row>
+   <row>
+      <name>Volt Switch</name>	
+      <type>Electric</type>	
+      <category>Special </category>	
+      <power>70 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>20 </pp>	
+      <effect>User must switch out after attacking.</effect>
+   </row>
+   <row>
+      <name>Water Pledge</name>	
+      <type>Water</type>	
+      <category>Special </category>	
+      <power>80 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>10 </pp>	
+      <effect>Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.</effect>
+   </row>
+   <row>
+      <name>Wide Guard</name>	
+      <type>Rock</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>10 </pp>	
+      <effect>Protects the user's team from multi-target attacks.</effect>
+   </row>
+   <row>
+      <name>Wild Charge</name>	
+      <type>Electric</type>	
+      <category>Physical </category>	
+      <power>90 </power>	
+      <accuracy>100 </accuracy>	
+      <pp>15 </pp>	
+      <effect>User receives recoil damage.</effect>
+   </row>
+   <row>
+      <name>Wonder Room</name>	
+      <type>Psychic</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>10 </pp>	
+      <effect>Swaps every Pokémon's Defense and Special Defense for 5 turns.</effect>
+   </row>
+   <row>
+      <name>Work Up</name>	
+      <type>Normal</type>	
+      <category>Status </category>	
+      <power>— </power>	
+      <accuracy>— </accuracy>	
+      <pp>30 </pp>	
+      <effect>Raises user's Attack and Special Attack.</effect>
+   </row>
+</xml>
