@@ -1,52 +1,226 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <!-- Try opening this file on your local computer in a web browser (Firefox, Chrome, etc). 
-     * On Windows, go to the browser and type control + o and browse to find this file to open it.
-     * On Mac, go to the browser and type command + o and browse to find this file to open it. 
-     Look for the text in the <title> element in the tab above the browser search bar. Do you see it? 
-    -->
-    <head>
-        <!-- What's in the <head> element is a "meta" area not for display. 
-            It holds important information about the website's contents.
-            The text inside the <title> element does show in the top tab of a web browser. 
-             The <head> is where we will include info about styling the site, too. -->
-        <title>Colin's DIGIT 100 Home Page</title>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <!-- Here is a place where we can add a little styling code called CSS to this page. 
-            I used it to apply a background color to the body element.
-        -->
-        <!-- This code below is called CSS: It stands for Cascading Stylesheets -->
-        
-        <link rel="stylesheet" type="text/css" href="style.css" />
-   
-    </head>
-    <body>
-        <!-- CONTENT FOR DISPLAY. The <body> element holds the content we see in the display window on the web browser.-->
-    <img src="images/psu-logo.svg" id="PSB" alt="Penn State Behrend logo"/>
-        <h1>DIGIT 100: Intro to Digital Humani</h1>
-        
-        <nav>
-            <a href="index.html">Home</a> | <a href="gallery.html">Gallery</a> | <a href="resume.html">Resume</a> | <a href="blender.html">Blender 3D Animation Project</a> | <a href="https://github.com/ColinRODonnell/portfolio.git" target="_blank">GitHub</a> | <a href="essay.html">Essay</a> | <a href="corpus.html">Corpus Analysis</a> | <a href="game.html">Game Analysis</a>
-        </nav>
-        <h1 style="text-align:left;">Hey I'm Colin!</h1>
-        <section>
-        <div style="display: flex; gap: 10px;">
-        <img src="images/Colin%20ODonnell%20Self%20Portrait%20Final.png" alt="photoshopped picture of Colin" style="width:250px;"></img>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alex Rivera — Robotics &amp; AI Engineer</title>
+<meta name="description" content="Robotics and AI engineer building software for machines that work in the real world.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-            <p style="line-height:0.7;"> My name is Colin R. O’Donnell and I am 20 years of age. I am currently enrolled at <br></br>Penn State Behrend. I am pursuing a bachelor’s degree in <b>Digital Media, Arts, and <br></br>Technology</b> with minors in <b>Spanish Language</b> and <b>Media Production.</b>
-                
-                After graduation<br></br> I plan to work at an agency that produces commercials or in film. I will graduate in May of 2027.</p>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="topbar">
+  <a class="wordmark" href="#top">alex<span>.rivera</span></a>
+  <button class="menu-btn" aria-expanded="false" aria-controls="nav">Menu</button>
+  <nav id="nav" class="nav">
+    <a href="#about">About</a>
+    <a href="#work">Experience</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+    <a class="nav-cta" href="#" download>Résumé</a>
+  </nav>
+</header>
+
+<main id="main">
+
+  <!-- HERO -->
+  <section class="hero" id="top">
+    <div class="hero-text">
+      <p class="hand">Hello —</p>
+      <h1>I'm Alex, and I write the software that makes robots behave.</h1>
+      <p class="lede">
+        Robotics and AI engineer, master's in robotics, four years shipping control stacks,
+        perception pipelines and ROS 2 systems for machines that have to work outdoors,
+        on time, without a laptop attached. I garden badly and watch too many films.
+      </p>
+      <div class="hero-actions">
+        <a class="btn" href="#projects">See what I've built</a>
+        <a class="btn ghost" href="#contact">Get in touch</a>
+      </div>
+    </div>
+
+    <figure class="portrait">
+      <img src="portrait.jpg" alt="Alex Rivera">
+      <figcaption>Denver, Colorado</figcaption>
+    </figure>
+
+    <p class="scroll-cue">Scroll</p>
+  </section>
+
+  <!-- AVAILABILITY -->
+  <aside class="status">
+    <span class="dot" aria-hidden="true"></span>
+    Open to contract and full-time roles in robotics, ML, reinforcement learning and vision.
+  </aside>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <h2>About</h2>
+    <div class="about-grid">
+      <p class="about-lead">
+        I work at the seam where learning meets hardware: behaviour trees that call a language model,
+        motor drivers that have to answer in under a millisecond, and everything in between that keeps
+        the two talking.
+      </p>
+      <dl class="facts">
+        <div><dt>Focus</dt><dd>ROS 2, control, embedded systems, applied ML</dd></div>
+        <div><dt>Research</dt><dd>Multi-agent control — two published papers</dd></div>
+        <div><dt>Toolbox</dt><dd>C++, Python, Docker, micro-ROS, PyTorch, Gazebo</dd></div>
+        <div><dt>Based in</dt><dd>Denver, open to remote and relocation</dd></div>
+      </dl>
+    </div>
+
+    <ul class="awards">
+      <li><strong>Robotics Fellowship</strong><span>National Robotics Institute, 2023</span></li>
+      <li><strong>Best Paper, Field Robotics track</strong><span>ICRA Workshop, 2024</span></li>
+      <li><strong>Finalist, National Design Challenge</strong><span>Team of four, 2022</span></li>
+    </ul>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section class="work" id="work">
+    <h2>Experience</h2>
+    <ol class="timeline">
+
+      <li class="job">
+        <p class="when">Mar 2025 — present</p>
+        <div class="job-body">
+          <h3>Robotics Software Engineer</h3>
+          <p class="where">Northline Robotics · Denver</p>
+          <ul>
+            <li>Built the behaviour engine for a humanoid platform — lifecycle nodes, swappable actions, a language model in the decision loop.</li>
+            <li>Brought up a micro-ROS stack on a Teensy 4.0 and drove the wheel motors over RS-485.</li>
+            <li>Added per-node health monitoring, which turned week-long debugging hunts into afternoon ones.</li>
+          </ul>
         </div>
-        </section>
-            <footer>
-        <h3><b>Contacts</b> 
-        </h3>
-        
-            Phone: (814)-790-0029<br></br>
-            Email: cro5191@psu.edu <br></br>
-            LinkedIn: <a href="https://www.linkedin.com/in/colin-o-donnell-767865351/" target="_blank">view here</a> <br></br>
-                <a href="https://example.com">Colin's DIGIT 100 Website</a> © 2025 by <a href="https://example.com">Colin O'Donnell</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-        </footer>
-    </body>
+      </li>
+
+      <li class="job">
+        <p class="when">May 2024 — Oct 2024</p>
+        <div class="job-body">
+          <h3>Robotics Software Engineer</h3>
+          <p class="where">Fieldwork Agritech · Phoenix</p>
+          <ul>
+            <li>Spent two months on-site as the only engineer, taking a prototype harvester from demo to field trials.</li>
+            <li>Tuned a GPS-and-encoder Kalman filter down to sub-centimetre positioning between crop rows.</li>
+            <li>Collected field data and retrained detection models that kept working at dawn and under glare.</li>
+          </ul>
+        </div>
+      </li>
+
+      <li class="job">
+        <p class="when">May 2023 — Aug 2023</p>
+        <div class="job-body">
+          <h3>Solutions Architect Intern</h3>
+          <p class="where">Silverwave Systems · San Jose</p>
+          <ul>
+            <li>Built a self-balancing robot from CAD to controller as a reference design for the sales team.</li>
+            <li>Ported the control policy from TensorFlow onto a neuromorphic inference chip.</li>
+          </ul>
+        </div>
+      </li>
+
+      <li class="job">
+        <p class="when">May 2020 — Aug 2020</p>
+        <div class="job-body">
+          <h3>Embedded Software Intern</h3>
+          <p class="where">University Robotics Lab</p>
+          <ul>
+            <li>One of 95 students selected from a national cohort for the summer research programme.</li>
+            <li>Led three teammates on a fiducial-marker localisation module and its automated test harness.</li>
+          </ul>
+        </div>
+      </li>
+
+    </ol>
+  </section>
+
+  <!-- PROJECTS -->
+  <section class="projects" id="projects">
+    <h2>Projects</h2>
+    <div class="project-list">
+
+      <a class="project" href="#">
+        <h3>Object-goal navigation, rebuilt</h3>
+        <p>Semantic mapping plus a learned exploration policy, so the robot searches a building the way a person would rather than sweeping it.</p>
+        <ul class="tags"><li>Path planning</li><li>Vision</li><li>RL</li><li>Simulation</li></ul>
+      </a>
+
+      <a class="project" href="#">
+        <h3>Model-predictive control for an omni-wheel base</h3>
+        <p>Trajectory optimisation for a four-wheel omnidirectional platform, compared against a gradient-descent baseline on the same track.</p>
+        <ul class="tags"><li>Python</li><li>MPC</li><li>Optimisation</li></ul>
+      </a>
+
+      <a class="project" href="#">
+        <h3>Cup-stacking arm</h3>
+        <p>Fine-tuned an imitation-learning policy on a low-cost six-axis arm over a weekend hackathon. It stacks five cups out of six.</p>
+        <ul class="tags"><li>Imitation learning</li><li>ROS 2</li><li>Jetson</li></ul>
+      </a>
+
+      <a class="project" href="#">
+        <h3>Language-model driver in simulation</h3>
+        <p>A planner that hands natural-language driving intent to a language model and converts its output into throttle and steering inside a driving simulator.</p>
+        <ul class="tags"><li>LLM</li><li>Autonomy</li><li>Simulation</li></ul>
+      </a>
+
+      <a class="project" href="#">
+        <h3>Vision-tracking mini drone</h3>
+        <p>A palm-sized quadcopter that follows a marker using onboard vision and a model-based control design, built and tested in MATLAB.</p>
+        <ul class="tags"><li>Sensor fusion</li><li>Kalman filter</li><li>MATLAB</li></ul>
+      </a>
+
+      <a class="project" href="#">
+        <h3>Speech in, speech out</h3>
+        <p>A containerised ROS 2 pipeline: speech to text, text through a local language model, answer back out as synthesised speech. Runs offline on one GPU.</p>
+        <ul class="tags"><li>Docker</li><li>ROS 2</li><li>Whisper</li><li>TTS</li></ul>
+      </a>
+
+    </div>
+
+    <p class="resume-line"><a href="#" download>Take a copy of my résumé</a></p>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <h2>Contact</h2>
+    <p class="contact-lead">Got something that needs to move, sense or decide? Tell me about it.</p>
+    <a class="mail" href="mailto:hello@example.com">hello@example.com</a>
+    <ul class="social">
+      <li><a href="#">GitHub</a></li>
+      <li><a href="#">LinkedIn</a></li>
+      <li><a href="#">Google Scholar</a></li>
+      <li><a href="#">Bluesky</a></li>
+    </ul>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p>© 2026 Alex Rivera</p>
+  <p>Robotics · AI · things that roll away when you stop watching</p>
+</footer>
+
+<script>
+  const btn = document.querySelector('.menu-btn');
+  const nav = document.getElementById('nav');
+  btn.addEventListener('click', () => {
+    const open = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', String(!open));
+    nav.classList.toggle('open', !open);
+  });
+  nav.addEventListener('click', e => {
+    if (e.target.tagName === 'A') {
+      nav.classList.remove('open');
+      btn.setAttribute('aria-expanded', 'false');
+    }
+  });
+</script>
+
+</body>
 </html>
