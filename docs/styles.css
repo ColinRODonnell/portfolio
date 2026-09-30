@@ -1,3 +1,12 @@
 body {
     background:grey;
 }
+
+.blender-logo img {
+    width: 350px;
+    transition: transform 0.5s ease;
+}
+
+.blender-logo.on img {
+    transform: scale(1.2);
+}
